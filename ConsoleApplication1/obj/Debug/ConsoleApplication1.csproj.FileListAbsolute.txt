@@ -1,0 +1,6 @@
+E:\درس\کهکشان\CSharp\Projects\ConsoleGame\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\درس\کهکشان\CSharp\Projects\ConsoleGame\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\درس\کهکشان\CSharp\Projects\ConsoleGame\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\درس\کهکشان\CSharp\Projects\ConsoleGame\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\درس\کهکشان\CSharp\Projects\ConsoleGame\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\درس\کهکشان\CSharp\Projects\ConsoleGame\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

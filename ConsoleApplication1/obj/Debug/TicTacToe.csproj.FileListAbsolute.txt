@@ -1,0 +1,8 @@
+E:\درس\کهکشان\CSharp\Projects\ConsoleGame\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\درس\کهکشان\CSharp\Projects\ConsoleGame\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\درس\کهکشان\CSharp\Projects\ConsoleGame\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\درس\کهکشان\CSharp\Projects\ConsoleGame\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\درس\کهکشان\CSharp\Projects\ConsoleGame\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\درس\کهکشان\CSharp\Projects\ConsoleGame\ConsoleApplication1\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+E:\درس\کهکشان\CSharp\Projects\ConsoleGame\ConsoleApplication1\bin\Debug\04. 4 Bit 9d Api+E+6.wav
+E:\درس\کهکشان\CSharp\Projects\ConsoleGame\ConsoleApplication1\bin\Debug\End-Tie.wav
